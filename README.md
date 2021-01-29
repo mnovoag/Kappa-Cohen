@@ -3,7 +3,7 @@ To present the use of the Artificial Intelligence-based system HOPE (Health Oper
 Author: Dr. Alba Novoa-Gomez, PhD, MD, MSc.
 
 # My contribution
-Calculations for the Kappa-Cohen index as part as my contribution as a graduate student in Economics for a thesis in AI in Oral & Maxillofacial Surgery for a Doctor in Medicine.
+As a graduate student in Economics I contributed by calculating the Kappa-Cohen Index for two raters and observations for 10 clinical cases, as part of the above mentioned thesis in AI in Oral & Maxillofacial Surgery for a Doctor in Medicine.
 
 # What is the Kappa-Cohen Index?
 It is a statistic that is used to measure inter-rater reliability (and also Intra-rater reliability) for qualitative (categorical) items.
